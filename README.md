@@ -1,6 +1,6 @@
 # Learning Redux Toolkit
 
-![image](https://github.com/imshuffling/redux-toolkit/assets/739061/3554fe3a-c86b-41e4-9f25-17e8114e5d7e)
+![image](https://github.com/imshuffling/redux-toolkit/assets/739061/3554fe3a-c86b-41e4-9f25-17e8114e5d7e)(https://redux-toolkit-sepia.vercel.app/)
 
 This is the repository for the LinkedIn Learning course `Learning Redux Toolkit`. The full course is available from [LinkedIn Learning](https://www.linkedin.com/learning/).
 
